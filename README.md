@@ -47,19 +47,15 @@
 
 ### How to cite:
 ```
-@article{arXiv:update-this,
-   title = {Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials},
-   author = {Hitarth Choubisa, Md Azimul Haque, Tong Zhu, Lewei Zeng, Maral Vafaie, Derya Baran, Edward H Sargent},
-   journal = {},
-   volume = {},
-   issue = {},
-   pages = {},
-   numpages = {},
-   year = {},
-   month = {},
-   publisher = {},
-   doi = {},
-   url = {https://arxiv.org/abs/2302.13380v1}
+@article{https://doi.org/10.1002/adma.202302575,
+author = {Choubisa, Hitarth and Haque, Md Azimul and Zhu, Tong and Zeng, Lewei and Vafaie, Maral and Baran, Derya and Sargent, Edward H},
+title = {Closed-loop Error Correction Learning Accelerates Experimental Discovery of Thermoelectric Materials},
+journal = {Advanced Materials},
+volume = {n/a},
+number = {n/a},
+pages = {2302575},
+doi = {https://doi.org/10.1002/adma.202302575},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202302575},
  ```
 
 ### License:
